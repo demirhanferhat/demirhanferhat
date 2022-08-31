@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ferhatdemirhan/**
 
-- 📄 Know about my experiences : [HTML, CSS, Bootstrap, Javascript, Java, C#, MSSQL](HTML, CSS, Bootstrap, Javascript, Java, C#, MSSQL)
+- 📄 Know about my experiences : (HTML, CSS, Bootstrap, Javascript, Java, C#, MSSQL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
