@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
 <h3 align="center">A passionate C# developer from Turkey</h3>
 
+- 🌱 I’m currently learning **.Net,Mvc and Asp**
+
+- 👨‍💻 All of my projects are available at **https://ferhatdemirhan.com**
+
 - 📝 I regularly write articles on [https://medium.com/@ferhatdemirhan](https://medium.com/@ferhatdemirhan)
 
+- 💬 Ask me about **ferhat.fettahoglu@gmail.com**
+
 - 📫 How to reach me **https://www.linkedin.com/in/ferhatdemirhan/**
+
+- 📄 Know about my experiences : [HTML, CSS, Bootstrap, Javascript, Java, C#, MSSQL](HTML, CSS, Bootstrap, Javascript, Java, C#, MSSQL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
